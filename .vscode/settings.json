@@ -1,3 +1,7 @@
 {
-    "liveServer.settings.port": 5501
-}
+    "name": "your_own_adv",
+    "lockfileVersion": 2,
+    "requires": true,
+    "packages": {}
+  }
+  
